@@ -29,10 +29,10 @@
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="https://matome.naver.jp/odai/2139657680164629701"
           target="_blank"
         >
-          Twitter
+          おもしろ
         </a>
       </li>
       <br>
@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to MUKOYAMA Vue.js App'
     }
   }
 }
