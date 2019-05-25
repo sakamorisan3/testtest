@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'wel',
   data () {
     return {
-      msg: 'Welcome to MUKOYAMA Vue.js App'
+      msg: 'Welcome to 太智'
     }
   }
 }
